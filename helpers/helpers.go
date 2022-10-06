@@ -1,6 +1,6 @@
 package helpers
 
 type SomeType struct {
-	TyupeName  string
+	TypeName   string
 	TypeNumber string
 }

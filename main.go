@@ -2,13 +2,15 @@ package main
 
 import "log"
 
+//import// "https://github.com/raulcoroiu/Test/helpers.git"
+
 func main() {
 
 	log.Println("Hello")
 
-	myVar := helpers.SomeType
-	myVar = "sasda"
+	//myVar := SomeType.TypeName
+	//myVar = "sasda"
 
-	log.Println(myVar)
+	//log.Println(myVar)
 
 }
